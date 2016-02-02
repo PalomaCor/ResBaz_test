@@ -1,0 +1,5 @@
+I was born in 1990 in a muggy suburban street in Sydney
+
+
+It wasn't until I was an old lady of twenty five years that I learned to use
+git
